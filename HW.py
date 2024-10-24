@@ -1,3 +1,3 @@
-def col():
+def col2():
     print('fdfs')
-    print('fdfs')
+    print('fdf')
